@@ -1,1 +1,4 @@
 # Smart-Educational-Board
+In light of the great and rapid developments and in light of the widespread spread of technology, the need to establish programs that depend on direct interactions with people has emerged and has become an integral part of the most important elements of competition for companies. From here the idea of our project originated ... as it is the most important area that should be highlighted is the educational field .. So it was necessary to take a step forward in creating educational programs based on interaction.
+The project aims to take advantage of computer vision technologies and image processing
+To accomplish an application that acts as a teacher and simulates the process of mathematical learning For children under 12 by using a wooden board, numbered cards and a camera
